@@ -1,0 +1,7 @@
+Flask>=2.0
+Flask-CORS>=3.0
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+APScheduler
+SQLAlchemy
